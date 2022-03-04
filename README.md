@@ -20,6 +20,15 @@ Dependências:
 - `yarn add express`
 - `yarn add socket.io`
 
+Para rodar o servidor:
+
+- `node server.js`
+
+O servidor rodará em:
+
+- http://localhost:3000
+
+
 # Agradecimentos
 
 <a href="https://github.com/diego3g">Diego Fernandes</a> | Rocketseat
